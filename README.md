@@ -1,5 +1,5 @@
 Basic JavaScript 
-<<<<<<< HEAD
+
 
 The Online learing link i studied was:
 
